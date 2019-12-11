@@ -6,14 +6,8 @@
 - Level 2: Piece Parts Sub Assembly—some level of assembly.
 - Level 3: Metals and plastics are integrated together and shipped as a case (i.e. chassis).
 - Level 4: Metals and Plastics + PSU and/or Flat Cable and/or Backplane are shipped as a kit or bag.
-
-<font color="red">
-
-- Level 5: All enclosure parts from Level 4 attached, cables integrated, I/O tested</font>
-
-<font color="red">
-
-- Level 6: Integration of motherboard into chassis enclosure and power on test.</font>
+- <font color="red">Level 5: All enclosure parts from Level 4 attached, cables integrated, I/O tested</font>
+- <font color="red">Level 6: Integration of motherboard into chassis enclosure and power on test.</font>
   - Level 6 manufactured platforms are what ODMs provide when they ship out “server barebones” which are integrated motherboard/chassis combinations with parts included, but missing components such as CPU, memory, hard drives, networking cards, etc. Often systems integrators will buy these barebones and populate with components to create specific server configurations. How much value that integrator can add in terms of services and further building out the solution depends on their capabilities in the next levels: 
 
 - Level 7: Integration of add-on cards into server barebone with ability to test.

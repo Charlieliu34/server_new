@@ -1,6 +1,5 @@
 # Manufacturing Level
 
-
 ![](/Pic/manufacturinglevel.jpg)
 
 - Level 1: Parts manufacturing—this includes non-painted parts and molding parts on the component level.

@@ -11,4 +11,6 @@
 - Second, the most important component for both a server and a computer is the central processing unit (CPU), which has a small cache to store frequently used data. A desktop or laptop may have one or two sets of CPU, but the size of cache is quite limited; while a server has larger and more varied caches, which increases the processing power substantially.
 - Third, a desktop or laptop often has only one hard drive, while a server has several hard drives configured into a single disk, called Redundant Array of Inexpensive Disks (RAIDs). In this case, failure of one hard drive does not mean the failure of a server, as other hard drives back up the system.
 
-<font color="red">Click reference</font>
+
+
+[Click reference](http://publications.apec.org/-/media/APEC/Publications/2015/11/Services-in-Global-Value-Chains-Manufacturing-Related-Services/TOC/Chapter-5-Manufacturing-of-Computer-Servers.pdf ）

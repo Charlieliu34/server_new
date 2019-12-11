@@ -12,10 +12,7 @@
 - Level 7: Integration of add-on cards into server barebone with ability to test.
 - Level 8: Integration of hard drives into server barebone with ability to test.
 - Level 9: Integration of CPU and memory into server barebone with ability to test.
-
-<font color="red">
-
-- Level 10: Full assembly of server with full system and component level testing, OS/software integration, product kitted with user manual and other required documentation and delivered as a fully-integrated server solution.
+- <font color="red">Level 10: Full assembly of server with full system and component level testing, OS/software integration, product kitted with user manual and other required documentation and delivered as a fully-integrated server solution.
 A manufacturer capable of up to Level 10 manufacturing will deliver a working server solution. But if you need multiple servers networked together as a rack-level or even multi-rack level solution, you will need at least a 
 Level 11 manufacturer (like AMAX):</font>
 

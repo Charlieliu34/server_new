@@ -13,4 +13,5 @@
 
 
 
-[Click reference](http://publications.apec.org/-/media/APEC/Publications/2015/11/Services-in-Global-Value-Chains-Manufacturing-Related-Services/TOC/Chapter-5-Manufacturing-of-Computer-Servers.pdf ）
+
+<p><a href="http://publications.apec.org/-/media/APEC/Publications/2015/11/Services-in-Global-Value-Chains-Manufacturing-Related-Services/TOC/Chapter-5-Manufacturing-of-Computer-Servers.pdf">Click reference</a></p>

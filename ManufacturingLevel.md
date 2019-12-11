@@ -9,7 +9,6 @@
 - <font color="red">Level 5: All enclosure parts from Level 4 attached, cables integrated, I/O tested</font>
 - <font color="red">Level 6: Integration of motherboard into chassis enclosure and power on test.</font>
   - Level 6 manufactured platforms are what ODMs provide when they ship out “server barebones” which are integrated motherboard/chassis combinations with parts included, but missing components such as CPU, memory, hard drives, networking cards, etc. Often systems integrators will buy these barebones and populate with components to create specific server configurations. How much value that integrator can add in terms of services and further building out the solution depends on their capabilities in the next levels: 
-
 - Level 7: Integration of add-on cards into server barebone with ability to test.
 - Level 8: Integration of hard drives into server barebone with ability to test.
 - Level 9: Integration of CPU and memory into server barebone with ability to test.

@@ -12,6 +12,7 @@
             "request": "launch",
             "name": "create gitbook",
             "cwd": "${workspaceFolder}",
+            "runtimeExecutable": "npm",
             "runtimeArgs": [
                 "run-script", "create"
             ]
@@ -22,6 +23,7 @@
             "request": "launch",
             "name": "build gitbook",
             "cwd": "${workspaceFolder}",
+            "runtimeExecutable": "npm",
             "runtimeArgs": [
                 "run-script", "build"
             ]
